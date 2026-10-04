@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /cart.html
+
+Sitemap: https://avinashreddy-11105.github.io/pakkaorganics/sitemap.xml
